@@ -1,0 +1,32 @@
+{
+    "jobTitle": [
+        {
+            "title": "Math Coach",
+            "color": "blue"
+        },
+        {
+            "title": "Customer Service Associate",
+            "color": "yellow"
+        },
+        {
+            "title": "Customer Service Resolution Specialist",
+            "color": "red"
+        }
+        {
+            "title": "Debt Collector Workflow Agent",
+            "color": "green"
+        },
+        {
+            "title": "Customer Technical Care Associate",
+            "color": "gold"
+        },
+        {
+            "title": "Advanced Technical Care Associate",
+            "color": "baby blue"
+        },
+
+    ]
+    "about":[
+        
+    ]
+}
