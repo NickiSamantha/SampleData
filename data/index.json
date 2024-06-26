@@ -25,8 +25,101 @@
             "color": "baby blue"
         },
 
-    ]
+    ],
     "about":[
-        
-    ]
+      "I value and understand the need for dedication, commitment and hard work in order to progress and ultimately succeed.I started at Life Academy in April 2024 with intention to become a Developer. I have hopes to specialize in Full Stack Web Development."   
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": "2024",
+            "description": "Intensive 6 month web development training for career preparation.",
+            "place": "Life Choices Academy",
+            "type": "Certificate",
+            "courseName": "Full Stack Web Development",
+            
+        },
+        {
+            "id": 2,
+            "year": "2016",
+            "description": "It is a comprehensive education and practical training program for diverse careers in the maritime industry.",
+            "place": "CPUT Granger Bay",
+            "type": "National Diploma",
+            "courseName": "Maritime Studies",
+            
+        },
+        {
+            "id": 3,
+            "year": "2015",
+            "description": "Final year of high school career",
+            "place": "Mondale High School",
+            "type": "Bachelors Pass",
+            "courseName": "Grade 12",
+            
+        },
+    ],
+    "experience": [
+{
+    "id": ,
+    "companyName": ,
+    "jobTitle": ,
+    "duration": ,
+    "duties": , 
+},
+{
+    "id": ,
+    "companyName": ,
+    "jobTitle": ,
+    "duration": ,
+    "duties": , 
+},
+{
+    "id": ,
+    "companyName": ,
+    "jobTitle": ,
+    "duration": ,
+    "duties": , 
+},
+{
+    "id": ,
+    "companyName": ,
+    "jobTitle": ,
+    "duration": ,
+    "duties": , 
+},
+{
+    "id": ,
+    "companyName": ,
+    "jobTitle": ,
+    "duration": ,
+    "duties": , 
+},
+{
+    "id": ,
+    "companyName": ,
+    "jobTitle": ,
+    "duration": ,
+    "duties": , 
+},
+{
+    "id": ,
+    "companyName": ,
+    "jobTitle": ,
+    "duration": ,
+    "duties": , 
+},
+{
+    "id": ,
+    "companyName": ,
+    "jobTitle": ,
+    "duration": ,
+    "duties": , 
+},
+    ],
+    "skills": [
+        {
+            
+        },
+
+    ],
 }
