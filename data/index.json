@@ -1,7 +1,7 @@
 {
     "jobTitle": [
         {
-            "title":"Aspiring Developer",
+            "title":" Web Developer",
             "color":"pink"
         },
         {
@@ -129,8 +129,86 @@
     ],
     "skills": [
         {
-
+            "id":1,
+            "title": "HTML",
+            "description": ""
+        },
+        {
+            "id":2,
+            "title":"CSS",
+            "description":""
+        },
+        {
+            "id":3,
+            "title":"Bootstrap",
+            "description":""
+        },
+        {
+            "id":4,
+            "title":"JavaScript",
+            "description":""
+        },
+        {
+            "id":5,
+            "title":"VueJs",
+            "description":""
+        },
+        {
+            "id":6,
+            "title":"Communication",
+            "description":""
+        },
+        {
+            "id":7,
+            "title":"Listening",
+            "description":""
+        },
+        {
+            "id":8,
+            "title":"Punctuality",
+            "description":""
+        },
+        {
+            "id":9,
+            "title":"Problem-Solving"
         }
 
+    ],
+    "Testimonials" : [
+        {
+            "name":"Imaraan",
+            "surname":"Sheldon",
+            "relation": "Colleague",
+            "quote":"Hardworking is a term that comes to mind when I think of Nicki. She's someone whose willing to learn and improve herself, even going the extra mile when things are stacked against her. Nice smile and soft voice makes her pleasant to be around and she has the knowledge to go with it. Overall a great person, great personality with good potential and capabilities.",
+            "profile":"https://nickisamantha.github.io/allImages/images/imaraan.jpg"
+        },
+        {
+            "name":"Robyn",
+            "surname":"Carnow",
+            "relation":"Colleague",
+            "quote":"A very driven individual, Nicki never fails to stay curious and persistent in her work. Communicating well, with an attentive ear in return, comes naturally to her. She works efficiently independantly and in a team, and in her endeavors.",
+            "profile":"https://nickisamantha.github.io/allImages/images/headshot.JPG"
+        },
+        {
+            "name":"Shane",
+            "surname":"Petersen",
+            "relation":"Ex-Colleague",
+            "quote":"Nicki is a hard working indiviual that gives her all when it comes to her work. She is dedicated to everything she does and always makes the extra effort to achieve each of her goals set out for herself.",
+            "profile":"https://nickisamantha.github.io/allImages/images/shane.jpg"
+        },
+        {
+            "name":"Nikki",
+            "surname":"Galetta",
+            "relation":"Ex-Colleague",
+            "quote":"Nicki is nothing short of a breathe of fresh air! She is hardworking, determined and always looking for a new challenge. With this, she always ensures that she completes her tasks with precision and lends a helping hand to those who need it.",
+            "profile":"https://nickisamantha.github.io/allImages/images/nikkig.jpg"
+        },
+        {
+            "name":"Joel",
+            "surname":"Mukanya",
+            "relation":"Lecturer",
+            "quote":"Nicki is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, Figma, and VS Code. I am pleased to introduce her to you as an exceptional candidate and developer. What I appreciate about her is that she pays attention to details. I am pleased to introduce her to you as an exceptional candidate and developer.",
+            "profile":"https://nickisamantha.github.io/allImages/images/joel2.jpg"
+        }
     ]
 }
