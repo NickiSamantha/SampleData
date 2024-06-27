@@ -1,6 +1,10 @@
 {
     "jobTitle": [
         {
+            "title":"Aspiring Developer",
+            "color":"pink"
+        },
+        {
             "title": "Math Coach",
             "color": "blue"
         },
@@ -81,42 +85,42 @@
     "duties": "Researching business location , assets , company status and valid contact numbers in order to chase outstanding debt. Once the business has paid up their debt we remove the account from the system. However , if we unable to settle an agreement we either disconnect the meter or forward the account to an external debt collection agency.", 
 },
 {
-    "id": 3 ,
+    "id": 4 ,
     "companyName": "Flawless Copies",
     "jobTitle": "CEO and Founder" ,
     "duration": "Mar 2021 - Sept 2021",
     "duties": "Designing custom templates to be printed on garments. Printed custom templates on garments. I am still pursuing this on a part-time bases now." , 
 },
 {
-    "id": 4,
+    "id": 5,
     "companyName": "Amazon Development Center" ,
     "jobTitle": "Virtual Customer Service Resolution Specialist",
     "duration": "June 2020 - Mar 2021" ,
     "duties": "Assisting Customer Service Associates with their customers via Chat. As a customer service resolution specialist I am the last point of contact. I handled contacts via chat , phone and email. This role also required me to document my monthly stats and indicate areas of opportunity." , 
 },
 {
-    "id": 5 ,
+    "id": 6,
     "companyName":"Amazon Development Center" ,
     "jobTitle": "Virtual Customer Service Associate",
     "duration": "Oct 2019 - Jun 2020" ,
     "duties": "Assisting customers via calls, live chats and emails. To be customer focused and solve the customers query as a whole. Being a point of contact within they team. Duties also included assisting team manager with mining and peer to peer coaching.", 
 },
 {
-    "id": 6 ,
+    "id": 7 ,
     "companyName": "Capita" ,
     "jobTitle": "Advisor" ,
     "duration": "June 2019 - Sept 2019",
     "duties": "Assisting clients via phone with booking , editing their flights. " , 
 },
 {
-    "id": 7,
+    "id": 8,
     "companyName": "Amazon Development Center" ,
     "jobTitle":"Customer Service Associate" ,
     "duration": "Oct 2017 - April 2019",
     "duties": "Assisting customers via calls, live chats and emails. To be customer focused and solve the customers query as a whole." , 
 },
 {
-    "id": 8 ,
+    "id": 9 ,
     "companyName": "Numeric" ,
     "jobTitle": "Math Coach" ,
     "duration": "Jan 2017 - Sept 2017",
