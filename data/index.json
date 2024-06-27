@@ -31,7 +31,8 @@
 
     ],
     "about":[
-      "I value and understand the need for dedication, commitment and hard work in order to progress and ultimately succeed.I started at Life Academy in April 2024 with intention to become a Developer. I have hopes to specialize in Full Stack Web Development."   
+      { "title" : "I value and understand the need for dedication, commitment and hard work in order to progress and ultimately succeed.I started at Life Academy in April 2024 with intention to become a Developer. I have hopes to specialize in Full Stack Web Development."
+}
     ],
     "education": [
         {
