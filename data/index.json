@@ -171,11 +171,12 @@
         },
         {
             "id":9,
-            "title":"Problem-Solving"
+            "title":"Problem-Solving",
+            "description":""
         }
 
     ],
-    "Testimonials" : [
+    "testimonials" : [
         {
             "name":"Imaraan",
             "surname":"Sheldon",
@@ -211,5 +212,47 @@
             "quote":"Nicki is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, Figma, and VS Code. I am pleased to introduce her to you as an exceptional candidate and developer. What I appreciate about her is that she pays attention to details. I am pleased to introduce her to you as an exceptional candidate and developer.",
             "profile":"https://nickisamantha.github.io/allImages/images/joel2.jpg"
         }
-    ]
+    ],
+    "projects" : 
+    {
+        "id" : 1,
+        "name": "Calculator",
+        "description":"Calculator was created using HTML, CSS and JavaScript.",
+        "image": "",
+        "github":"",
+        "vercel":""
+    },
+    {
+        "id" : 2,
+        "name": "To-Do List",
+        "description":"To-Do list was created using HTML, CSS and JavaScript.",
+        "image": "",
+        "github":"",
+        "vercel":""
+    },
+    {
+        "id" : 3,
+        "name": "BMI Calculator",
+        "description":"BMI Calculator was created usinh HTML , CSS and Javascript.",
+        "image": "",
+        "github":"",
+        "vercel":""
+    },
+    {
+        "id" : 4,
+        "name": "Pretty Simple Printz E-Commerce",
+        "description":"E-commerce website was created with HTML, CSS and Javascript.",
+        "image": "",
+        "github":"",
+        "vercel":""
+    },
+    {
+        "id" : 5,
+        "name": "Calculate Interest on Salary",
+        "description":"Interest calculator was created with HTML, CSS, JavaScript.",
+        "image": "",
+        "github":"",
+        "vercel":""
+    }
+   
 }
