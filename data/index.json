@@ -98,47 +98,77 @@
     "skills": [{
             "id": 1,
             "title": "HTML",
-            "description": ""
+            "description": "I have an intermediate skill level in HTML. I create well-structured, semantic web pages. I ensure accessibility and SEO best practices.",
+            "image":"https://nickisamantha.github.io/allImages/images/html.png"
         },
         {
             "id": 2,
             "title": "CSS",
-            "description": ""
+            "description": "My CSS skills are at an intermediate level. I use advanced techniques like flexbox and grid layout. My designs are responsive and visually appealing.",
+            "image":"https://nickisamantha.github.io/allImages/images/css.png"
         },
         {
             "id": 3,
             "title": "Bootstrap",
-            "description": ""
+            "description": "My CSS skills are at an intermediate level. I use advanced techniques like flexbox and grid layout. My designs are responsive and visually appealing.",
+            "image":"https://nickisamantha.github.io/allImages/images/bootstrap.png"
         },
         {
             "id": 4,
             "title": "JavaScript",
-            "description": ""
+            "description": "I have an intermediate level of proficiency in JavaScript. I write clean, efficient code and use ES6+ features. I handle DOM manipulation, events, and API interactions confidently.",
+            "image":"https://nickisamantha.github.io/allImages/images/javascript.png"
         },
         {
             "id": 5,
             "title": "VueJs",
-            "description": ""
+            "description": "I am a beginner in Vue.js. I understand the core concepts and can build simple applications. I am eager to learn more advanced features and best practices.",
+            "image":"https://nickisamantha.github.io/allImages/images/vueJs.png"
         },
         {
-            "id": 6,
+            "id":6,
+            "title":"Canva",
+            "description":"I am proficient at an intermediate level in Canva, using its tools to create visually appealing graphics and presentations. I can design social media posts, posters, and marketing materials efficiently. My skills include customizing templates, adding text and graphics, and exporting designs for various digital and print formats.",  
+            "image":"https://nickisamantha.github.io/allImages/images/canva.png"
+        },
+        {
+            "id":7,
+            "title":"Figma",
+            "description":"I have intermediate skills in Figma, proficient in designing and prototyping user interfaces and experiences. I can create interactive prototypes and collaborate effectively with team members. My understanding of Figma's design tools and components helps me streamline workflow and maintain consistency in design projects.",
+            "image":"https://nickisamantha.github.io/allImages/images/figma.png"
+        },
+        {
+            "id":8,
+            "title":"Adobe Photoshop",
+            "description":"I possess intermediate proficiency in Adobe Photoshop, allowing me to edit photos and create graphics with confidence. I am skilled in using layers, masks, and filters to enhance images. My knowledge includes basic photo retouching, compositing, and color adjustments, enabling me to produce polished visuals for both digital and print media.",
+            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
+        }
+      ],
+    "softskills":[
+        {
+            "id": 1,
             "title": "Communication",
-            "description": ""
+            "description": "I excel in clear and effective communication, both written and verbal. I can convey complex ideas succinctly and tailor my message to diverse audiences. My active listening skills ensure understanding and foster collaborative environments."
         },
         {
-            "id": 7,
+            "id": 3,
             "title": "Listening",
-            "description": ""
+            "description": "I excel in active listening, ensuring full comprehension and engagement in conversations. I can interpret both verbal and non-verbal cues, fostering deeper understanding and connection. My ability to listen empathetically and without judgment enhances communication and collaboration."
         },
         {
-            "id": 8,
-            "title": "Punctuality",
-            "description": ""
+            "id": 4,
+            "title": "Time Management",
+            "description": "I am highly proficient in managing my time and prioritizing tasks effectively. I consistently meet deadlines while maintaining high-quality work. My organizational skills and ability to delegate ensure productivity and balance."
         },
         {
-            "id": 9,
+            "id": 5,
             "title": "Problem-Solving",
-            "description": ""
+            "description": "I possess advanced problem-solving skills, allowing me to tackle complex challenges effectively. I approach problems analytically and creatively, identifying root causes and devising strategic solutions. My perseverance and adaptability ensure successful outcomes."
+        },
+        {
+            "id":6,
+            "title":"Teamwork",
+            "description":"I thrive in collaborative settings and am skilled at fostering teamwork. I bring out the best in others by encouraging open communication and mutual respect. My ability to navigate group dynamics helps achieve common goals efficiently."
         }
     ],
     "testimonials": [{
