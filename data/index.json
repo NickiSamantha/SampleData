@@ -217,43 +217,51 @@
     ],
     "projects": [{
             "id": 1,
-            "name": "Calculator",
-            "description": "Calculator was created using HTML, CSS and JavaScript.",
-            "image": "",
-            "github": "",
-            "vercel": ""
+            "name": "Temperature Converter",
+            "description": "Tempreture Converter was created using HTML, CSS and JavaScript.",
+            "image": "https://nickisamantha.github.io/allImages/images/tempconverter.png",
+            "github": "https://github.com/NickiSamantha/tempretureConversion.git",
+            "vercel": "https://tempreture-conversion.vercel.app/"
         },
         {
             "id": 2,
             "name": "To-Do List",
             "description": "To-Do list was created using HTML, CSS and JavaScript.",
-            "image": "",
-            "github": "",
-            "vercel": ""
+            "image": "https://nickisamantha.github.io/allImages/images/todolist.png",
+            "github": "https://github.com/NickiSamantha/ToDoListTask.git",
+            "vercel": "https://to-do-list-task-two.vercel.app/"
         },
         {
             "id": 3,
             "name": "BMI Calculator",
             "description": "BMI Calculator was created usinh HTML , CSS and Javascript.",
-            "image": "",
-            "github": "",
-            "vercel": ""
+            "image": "https://nickisamantha.github.io/allImages/images/bmical.png",
+            "github": "https://github.com/NickiSamantha/bmiCalculator.git",
+            "vercel": "https://bmi-calculator-ruby-pi.vercel.app/"
         },
         {
             "id": 4,
             "name": "Pretty Simple Printz E-Commerce",
             "description": "E-commerce website was created with HTML, CSS and Javascript.",
-            "image": "",
-            "github": "",
-            "vercel": ""
+            "image": "https://nickisamantha.github.io/allImages/images/psplandingpg.png",
+            "github": "https://github.com/NickiSamantha/prettySimplePrintz.git",
+            "vercel": "https://pretty-simple-printz.vercel.app/"
         },
         {
             "id": 5,
             "name": "Calculate Interest on Salary",
             "description": "Interest calculator was created with HTML, CSS, JavaScript.",
-            "image": "",
-            "github": "",
-            "vercel": ""
-        }
+            "image": "https://nickisamantha.github.io/allImages/images/CalSalInt.png",
+            "github": "https://github.com/NickiSamantha/interestAmount.git",
+            "vercel": "https://interest-amount-eta.vercel.app/"
+        },
+    {
+        "id": 6,
+        "name": "RIN",
+        "description":"Group E-Commerce project. This is a footwear store created using CSS, HTML and Bootstrap.",
+        "image":"https://nickisamantha.github.io/allImages/images/rin.png",
+        "github":"",
+        "vercel":""
+    }
     ]
 }
