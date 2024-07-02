@@ -205,7 +205,15 @@
             "relation": "Lecturer",
             "quote": "Nicki is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, Figma, and VS Code. I am pleased to introduce her to you as an exceptional candidate and developer. What I appreciate about her is that she pays attention to details. I am pleased to introduce her to you as an exceptional candidate and developer.",
             "profile": "https://nickisamantha.github.io/allImages/images/joel2.jpg"
+        },
+        {
+            "name": "Anushqa",
+            "surname": "Kandan",
+            "relation": "Colleague",
+            "quote": "Nicki is an inspiration for all those around her. She's an extremely dedicated  and hard-working person, who never crumbles in the face of adversity . Her creative nature and intelligence is what sets her apart from her peers. She's always positive and constantly enlighten those around her, therefore any workplace would be lucky to have her as part of their team.",
+            "profile": "https://nickisamantha.github.io/allImages/images/anushqa.jpg"
         }
+
     ],
     "projects": [{
             "id": 1,
