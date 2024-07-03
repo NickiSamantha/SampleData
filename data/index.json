@@ -128,19 +128,19 @@
         {
             "id":6,
             "title":"Canva",
-            "description":"I am proficient at an intermediate level in Canva, using its tools to create visually appealing graphics and presentations. I can design social media posts, posters, and marketing materials efficiently. My skills include customizing templates, adding text and graphics, and exporting designs for various digital and print formats.",  
+            "description":"I am proficient at an intermediate level in Canva, using its tools to create visually appealing graphics and presentations. My skills include customizing templates, adding text and graphics, and exporting designs for various digital and print formats.",  
             "image":"https://nickisamantha.github.io/allImages/images/canva.png"
         },
         {
             "id":7,
             "title":"Figma",
-            "description":"I have intermediate skills in Figma, proficient in designing and prototyping user interfaces and experiences. I can create interactive prototypes and collaborate effectively with team members. My understanding of Figma's design tools and components helps me streamline workflow and maintain consistency in design projects.",
+            "description":"I have intermediate skills in Figma, proficient in prototyping user interfaces and experiences. My understanding of Figma's design tools and components helps me streamline workflow and maintain consistency in design projects.",
             "image":"https://nickisamantha.github.io/allImages/images/figma.png"
         },
         {
             "id":8,
             "title":"Adobe Photoshop",
-            "description":"I possess intermediate proficiency in Adobe Photoshop, allowing me to edit photos and create graphics with confidence. I am skilled in using layers, masks, and filters to enhance images. My knowledge includes basic photo retouching, compositing, and color adjustments, enabling me to produce polished visuals for both digital and print media.",
+            "description":"I have intermediate skills in Adobe Photoshop, allowing me to edit photos and create graphics. I am skilled in using layers, masks, and filters to enhance images. My knowledge includes basic compositing, and color adjustments, to produce polished images in both digital and print media.",
             "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
         }
       ],
