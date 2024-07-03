@@ -260,8 +260,8 @@
         "name": "RIN",
         "description":"Group E-Commerce project. This is a footwear store created using CSS, HTML and Bootstrap.",
         "image":"https://nickisamantha.github.io/allImages/images/rin.png",
-        "github":"",
-        "vercel":""
+        "github":"https://github.com/ImaraanSheldon/ClothingStore.git",
+        "vercel":"https://imaraansheldon.github.io/ClothingStore/"
     }
     ]
 }
