@@ -16,14 +16,6 @@
         },
         {
             "id": 2,
-            "year": "2016",
-            "description": "It is a comprehensive education and practical training program for diverse careers in the maritime industry.",
-            "place": "CPUT Granger Bay",
-            "type": "National Diploma",
-            "courseName": "Maritime Studies"
-        },
-        {
-            "id": 3,
             "year": "2015",
             "description": "Final year of high school career",
             "place": "Mondale High School",
@@ -33,62 +25,69 @@
     ],
     "experience": [{
             "id": 1,
+            "companyName": "Life Choices Studio",
+            "jobTitle": "Intern",
+            "duration": "Sept 2024 - Present",
+            "duties": " "
+        },
+        {
+            "id": 2,
             "companyName": "Amazon Development Center",
             "jobTitle": "Virtual Technical Care Associate",
             "duration": "Sept 2022 - Mar 2024",
             "duties": "Handling live contacts via Phone , Chat and Email. Assisting manager's with weekly stats reports and one on one coaching."
         },
         {
-            "id": 2,
+            "id": 3,
             "companyName": "Amazon Development Center",
             "jobTitle": "Virtual Advanced Technician ",
             "duration": "June 2023 - Dec 2023",
             "duties": "Assisting Customer Service Associates with their customers via Chat. As an advanced technician I am the last point of contact. I handled contacts via chat , phone and email. This role also required me to document my monthly stats and indicate areas of opportunity."
         },
         {
-            "id": 3,
+            "id": 4,
             "companyName": "WNS",
             "jobTitle": "Debt Collector Workflow Agent",
             "duration": "Sept 2021 - Sept 2022",
             "duties": "Researching business location , assets , company status and valid contact numbers in order to chase outstanding debt. Once the business has paid up their debt we remove the account from the system. However , if we unable to settle an agreement we either disconnect the meter or forward the account to an external debt collection agency."
         },
         {
-            "id": 4,
+            "id": 5,
             "companyName": "Flawless Copies",
             "jobTitle": "CEO and Founder",
             "duration": "Mar 2021 - Sept 2021",
             "duties": "Designing custom templates to be printed on garments. Printed custom templates on garments. I am still pursuing this on a part-time bases now."
         },
         {
-            "id": 5,
+            "id": 6,
             "companyName": "Amazon Development Center",
             "jobTitle": "Virtual Customer Service Resolution Specialist",
             "duration": "June 2020 - Mar 2021",
             "duties": "Assisting Customer Service Associates with their customers via Chat. As a customer service resolution specialist I am the last point of contact. I handled contacts via chat , phone and email. This role also required me to document my monthly stats and indicate areas of opportunity."
         },
         {
-            "id": 6,
+            "id": 7,
             "companyName": "Amazon Development Center",
             "jobTitle": "Virtual Customer Service Associate",
             "duration": "Oct 2019 - Jun 2020",
             "duties": "Assisting customers via calls, live chats and emails. To be customer focused and solve the customers query as a whole. Being a point of contact within they team. Duties also included assisting team manager with mining and peer to peer coaching."
         },
         {
-            "id": 7,
+            "id": 8,
             "companyName": "Capita",
             "jobTitle": "Advisor",
             "duration": "June 2019 - Sept 2019",
             "duties": "Assisting clients via phone with booking , editing their flights. "
         },
         {
-            "id": 8,
+            "id": 9,
             "companyName": "Amazon Development Center",
             "jobTitle": "Customer Service Associate",
             "duration": "Oct 2017 - April 2019",
             "duties": "Assisting customers via calls, live chats and emails. To be customer focused and solve the customers query as a whole."
         },
         {
-            "id": 9,
+            "id": 10,
             "companyName": "Numeric",
             "jobTitle": "Math Coach",
             "duration": "Jan 2017 - Sept 2017",
@@ -148,99 +147,38 @@
         {
             "id": 1,
             "title": "Communication",
-            "description": "I excel in clear and effective communication, both written and verbal. I can convey complex ideas succinctly and tailor my message to diverse audiences. My active listening skills ensure understanding and foster collaborative environments."
+            "description": "I excel in clear and effective communication, both written and verbal. I can convey complex ideas succinctly and tailor my message to diverse audiences. My active listening skills ensure understanding and foster collaborative environments.",
+            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
         },
         {
             "id": 3,
             "title": "Listening",
-            "description": "I excel in active listening, ensuring full comprehension and engagement in conversations. My ability to listen empathetically and without judgment enhances communication and collaboration."
+            "description": "I excel in active listening, ensuring full comprehension and engagement in conversations. My ability to listen empathetically and without judgment enhances communication and collaboration.",
+            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
         },
         {
             "id": 4,
             "title": "Time Management",
-            "description": "I am highly proficient in managing my time and prioritizing tasks effectively. I consistently meet deadlines while maintaining high-quality work. My organizational skills and ability to delegate ensure productivity and balance."
+            "description": "I am highly proficient in managing my time and prioritizing tasks effectively. I consistently meet deadlines while maintaining high-quality work. My organizational skills and ability to delegate ensure productivity and balance.",
+            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
         },
         {
             "id": 5,
             "title": "Problem-Solving",
-            "description": "I possess advanced problem-solving skills, allowing me to tackle complex challenges effectively. I approach problems analytically and creatively, identifying root causes and devising strategic solutions. My perseverance and adaptability ensure successful outcomes."
+            "description": "I possess advanced problem-solving skills, allowing me to tackle complex challenges effectively. I approach problems analytically and creatively, identifying root causes and devising strategic solutions. My perseverance and adaptability ensure successful outcomes.",
+            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
         },
         {
             "id":6,
             "title":"Teamwork",
-            "description":"I thrive in collaborative settings and am skilled at fostering teamwork. I bring out the best in others by encouraging open communication and mutual respect. My ability to navigate group dynamics helps achieve common goals efficiently."
+            "description":"I thrive in collaborative settings and am skilled at fostering teamwork. I bring out the best in others by encouraging open communication and mutual respect. My ability to navigate group dynamics helps achieve common goals efficiently.",
+            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
         }
     ],
-    "testimonials": [{
-            "name": "Imaraan",
-            "surname": "Sheldon",
-            "relation": "Colleague",
-            "quote": "Hardworking is a term that comes to mind when I think of Nicki. She's someone whose willing to learn and improve herself, even going the extra mile when things are stacked against her. Nice smile and soft voice makes her pleasant to be around and she has the knowledge to go with it. Overall a great person, great personality with good potential and capabilities.",
-            "profile": "https://nickisamantha.github.io/allImages/images/imaraan.jpg"
-        },
+    
+    "projects": [
         {
-            "name": "Robyn",
-            "surname": "Carnow",
-            "relation": "Colleague",
-            "quote": "A very driven individual, Nicki never fails to stay curious and persistent in her work. Communicating well, with an attentive ear in return, comes naturally to her. She works efficiently independantly and in a team, and in her endeavors.",
-            "profile": "https://nickisamantha.github.io/allImages/images/headshot.JPG"
-        },
-        {
-            "name": "Shane",
-            "surname": "Petersen",
-            "relation": "Ex-Colleague",
-            "quote": "Nicki is a hard working indiviual that gives her all when it comes to her work. She is dedicated to everything she does and always makes the extra effort to achieve each of her goals set out for herself.",
-            "profile": "https://nickisamantha.github.io/allImages/images/shane.jpg"
-        },
-        {
-            "name": "Nikki",
-            "surname": "Galetta",
-            "relation": "Ex-Colleague",
-            "quote": "Nicki is nothing short of a breathe of fresh air! She is hardworking, determined and always looking for a new challenge. With this, she always ensures that she completes her tasks with precision and lends a helping hand to those who need it.",
-            "profile": "https://nickisamantha.github.io/allImages/images/nikkig.jpg"
-        },
-        {
-            "name": "Joel",
-            "surname": "Mukanya",
-            "relation": "Lecturer",
-            "quote": "Nicki is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, Figma, JavaScript, VueJs and VS Code. I am pleased to introduce her to you as an exceptional candidate and developer. What I appreciate about her is that she pays attention to details. I am pleased to introduce her to you as an exceptional candidate and developer.",
-            "profile": "https://nickisamantha.github.io/allImages/images/joel2.jpg"
-        },
-        {
-            "name": "Anushqa",
-            "surname": "Kandan",
-            "relation": "Colleague",
-            "quote": "Nicki is an inspiration for all those around her. She's an extremely dedicated  and hard-working person, who never crumbles in the face of adversity . Her creative nature and intelligence is what sets her apart from her peers. She's always positive and constantly enlighten those around her, therefore any workplace would be lucky to have her as part of their team.",
-            "profile": "https://nickisamantha.github.io/allImages/images/anushqa.jpg"
-        }
-
-    ],
-    "projects": [{
             "id": 1,
-            "name": "Temperature Converter",
-            "description": "Tempreture Converter was created using HTML, CSS and JavaScript.",
-            "image": "https://nickisamantha.github.io/allImages/images/tempconverter.png",
-            "github": "https://github.com/NickiSamantha/tempretureConversion.git",
-            "vercel": "https://tempreture-conversion.vercel.app/"
-        },
-        {
-            "id": 2,
-            "name": "To-Do List",
-            "description": "To-Do list was created using HTML, CSS and JavaScript.",
-            "image": "https://nickisamantha.github.io/allImages/images/todolist.png",
-            "github": "https://github.com/NickiSamantha/ToDoListTask.git",
-            "vercel": "https://to-do-list-task-two.vercel.app/"
-        },
-        {
-            "id": 3,
-            "name": "BMI Calculator",
-            "description": "BMI Calculator was created usinh HTML , CSS and Javascript.",
-            "image": "https://nickisamantha.github.io/allImages/images/bmical.png",
-            "github": "https://github.com/NickiSamantha/bmiCalculator.git",
-            "vercel": "https://bmi-calculator-ruby-pi.vercel.app/"
-        },
-        {
-            "id": 4,
             "name": "E-Commerce Project",
             "description": "E-commerce website was created with HTML, CSS and Javascript.",
             "image": "https://nickisamantha.github.io/allImages/images/psplandingpg.png",
@@ -248,20 +186,31 @@
             "vercel": "https://pretty-simple-printz.vercel.app/"
         },
         {
-            "id": 5,
-            "name": "Calculate Interest on Salary",
-            "description": "Interest calculator was created with HTML, CSS, JavaScript.",
-            "image": "https://nickisamantha.github.io/allImages/images/CalSalInt.png",
-            "github": "https://github.com/NickiSamantha/interestAmount.git",
-            "vercel": "https://interest-amount-eta.vercel.app/"
+            "id": 2,
+            "name": "Temperature Converter",
+            "description": "Tempreture Converter was created using HTML, CSS and JavaScript.",
+            "image": "https://nickisamantha.github.io/allImages/images/tempconverter.png",
+            "github": "https://github.com/NickiSamantha/tempretureConversion.git",
+            "vercel": "https://tempreture-conversion.vercel.app/"
         },
-    {
-        "id": 6,
-        "name": "E-Commerce Group Project",
-        "description":"Group E-Commerce project. This is a footwear store (RIN) created using CSS, HTML and Bootstrap.",
-        "image":"https://nickisamantha.github.io/allImages/images/rin.png",
-        "github":"https://github.com/ImaraanSheldon/ClothingStore.git",
-        "vercel":"https://imaraansheldon.github.io/ClothingStore/"
-    }
+        {
+            "id": 3,
+            "name": "To-Do List",
+            "description": "To-Do list was created using HTML, CSS and JavaScript.",
+            "image": "https://nickisamantha.github.io/allImages/images/todolist.png",
+            "github": "https://github.com/NickiSamantha/ToDoListTask.git",
+            "vercel": "https://to-do-list-task-two.vercel.app/"
+        },
+        {
+            "id": 4,
+            "name": "BMI Calculator",
+            "description": "BMI Calculator was created using HTML , CSS and Javascript.",
+            "image": "https://nickisamantha.github.io/allImages/images/bmical.png",
+            "github": "https://github.com/NickiSamantha/bmiCalculator.git",
+            "vercel": "https://bmi-calculator-ruby-pi.vercel.app/"
+        },
+      
+     
+
     ]
 }
