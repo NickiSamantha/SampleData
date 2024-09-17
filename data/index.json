@@ -148,31 +148,31 @@
             "id": 1,
             "title": "Communication",
             "description": "I excel in clear and effective communication, both written and verbal. I can convey complex ideas succinctly and tailor my message to diverse audiences. My active listening skills ensure understanding and foster collaborative environments.",
-            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
+            "image":"https://nickisamantha.github.io/allImages/images/communication.png"
         },
         {
             "id": 3,
             "title": "Listening",
             "description": "I excel in active listening, ensuring full comprehension and engagement in conversations. My ability to listen empathetically and without judgment enhances communication and collaboration.",
-            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
+            "image":"https://nickisamantha.github.io/allImages/images/listening.png"
         },
         {
             "id": 4,
             "title": "Time Management",
             "description": "I am highly proficient in managing my time and prioritizing tasks effectively. I consistently meet deadlines while maintaining high-quality work. My organizational skills and ability to delegate ensure productivity and balance.",
-            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
+            "image":"https://nickisamantha.github.io/allImages/images/timemanagement.png"
         },
         {
             "id": 5,
             "title": "Problem-Solving",
             "description": "I possess advanced problem-solving skills, allowing me to tackle complex challenges effectively. I approach problems analytically and creatively, identifying root causes and devising strategic solutions. My perseverance and adaptability ensure successful outcomes.",
-            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
+            "image":"https://nickisamantha.github.io/allImages/images/problemsolving.png"
         },
         {
             "id":6,
             "title":"Teamwork",
             "description":"I thrive in collaborative settings and am skilled at fostering teamwork. I bring out the best in others by encouraging open communication and mutual respect. My ability to navigate group dynamics helps achieve common goals efficiently.",
-            "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
+            "image":"https://nickisamantha.github.io/allImages/images/teamwork.png"
         }
     ],
     
@@ -187,6 +187,14 @@
         },
         {
             "id": 2,
+            "name": "Fullstack Project",
+            "description": "E-Commerce was created using HTML , CSS, Javascript,VueJs, NodeJS",
+            "image": "https://nickisamantha.github.io/allImages/images/psplandingpg.png",
+            "github": "https://github.com/NickiSamantha/nodeJsEomp.git",
+            "vercel": "https://nodeeomp-5d5da.web.app/"
+        },
+        {
+            "id": 3,
             "name": "Temperature Converter",
             "description": "Tempreture Converter was created using HTML, CSS and JavaScript.",
             "image": "https://nickisamantha.github.io/allImages/images/tempconverter.png",
@@ -194,23 +202,12 @@
             "vercel": "https://tempreture-conversion.vercel.app/"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "To-Do List",
             "description": "To-Do list was created using HTML, CSS and JavaScript.",
             "image": "https://nickisamantha.github.io/allImages/images/todolist.png",
             "github": "https://github.com/NickiSamantha/ToDoListTask.git",
             "vercel": "https://to-do-list-task-two.vercel.app/"
-        },
-        {
-            "id": 4,
-            "name": "BMI Calculator",
-            "description": "BMI Calculator was created using HTML , CSS and Javascript.",
-            "image": "https://nickisamantha.github.io/allImages/images/bmical.png",
-            "github": "https://github.com/NickiSamantha/bmiCalculator.git",
-            "vercel": "https://bmi-calculator-ruby-pi.vercel.app/"
         }
-      
-     
-
     ]
 }
