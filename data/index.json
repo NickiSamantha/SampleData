@@ -4,7 +4,7 @@
         "personalStatement": "I value and understand the need for dedication, commitment and hard work in order to progress and ultimately succeed."
     }],
     "about": [{
-        "title":"I am a 25-year-old mother of two, living in Retreat, Cape Town. I absolutely love my role as a mother and thrive in creative environments. During my time in the Call Center Customer Service industry, I developed an interest in the technical field, which led me to apply for a technical associate role. While working in this field, I discovered a passion for IT, particularly in coding and the hardware and software aspects of technology. Relocating is also on my checklist, as I would love to explore various parts of South Africa and the world while maintaining job security, especially since I have never been outside of Cape Town. I consider myself an ambivert; I enjoy my downtime but also love interacting with teams. This balance makes me an ideal team member who is also comfortable working independently."
+        "title":"I am a 26-year-old mother of two, living in Retreat, Cape Town. I absolutely love my role as a mother and thrive in creative environments. During my time in the Call Center Customer Service industry, I developed an interest in the technical field, which led me to apply for a technical associate role. While working in this field, I discovered a passion for IT, particularly in coding , hardware and software aspects of technology. Relocating is also on my checklist, as I would love to explore various parts of South Africa and the world while maintaining job security, especially since I have never been outside of Cape Town. I consider myself an ambivert; I enjoy my downtime but also love interacting with teams. This balance makes me an ideal team member who is also comfortable working independently."
         }],
     "education": [{
             "id": 1,
@@ -121,23 +121,39 @@
         {
             "id": 5,
             "title": "VueJs",
-            "description": "I am a beginner in Vue.js. I understand the core concepts and can build simple applications. I am eager to learn more advanced features and best practices.",
+            "description": "Proficient in building dynamic user interfaces using Vue.js with the Composition API, leveraging reactive state management and reusable logic for cleaner code organization. Experienced in integrating components and managing state effectively, while implementing advanced features like lifecycle hooks and custom directives.",
             "image":"https://nickisamantha.github.io/allImages/images/vueJs.png"
         },
         {
-            "id":6,
+            "id": 6,
+            "title": "MySQL Workbench",
+            "description": "Familiar with the basics of MySQL Workbench, including creating and managing simple databases and executing basic SQL queries. Eager to learn more about data modeling and optimizing database performance.",
+            "image":"https://nickisamantha.github.io/allImages/images/mysql.png"
+        }, {
+            "id": 7,
+            "title": "NodeJs",
+            "description": "Skilled in building scalable server-side applications with Node.js, focusing on asynchronous programming and RESTful API development. Capable of integrating third-party libraries and deploying applications in cloud environments.",
+            "image":"https://nickisamantha.github.io/allImages/images/nodejs.png"
+        }, {
+            "id": 8,
+            "title": "Git",
+            "description": "Competent in using Git for version control, including branching, merging, and conflict resolution in collaborative projects. Familiar with GitHub for code reviews and repository management, ensuring a clean and organized codebase.",
+            "image":"https://nickisamantha.github.io/allImages/images/git.png"
+        },
+        {
+            "id":9,
             "title":"Canva",
             "description":"I am proficient at an intermediate level in Canva. My skills include customizing templates, adding text and graphics, and exporting designs for various digital and print formats.",  
             "image":"https://nickisamantha.github.io/allImages/images/canva.png"
         },
         {
-            "id":7,
+            "id":10,
             "title":"Figma",
             "description":"I have intermediate skills in Figma, proficient in prototyping user interfaces and experiences. My understanding of Figma's design tools and components helps me streamline workflow and maintain consistency in design projects.",
             "image":"https://nickisamantha.github.io/allImages/images/figma.png"
         },
         {
-            "id":8,
+            "id":11,
             "title":"Adobe Photoshop",
             "description":"I have intermediate skills in Adobe Photoshop, allowing me to edit photos and create graphics. My knowledge includes basic compositing, and color adjustments, to produce polished images in both digital and print media.",
             "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
