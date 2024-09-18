@@ -203,11 +203,19 @@
         },
         {
             "id": 2,
-            "name": "Fullstack Project",
+            "name": "NodeJs Project",
             "description": "E-Commerce was created using HTML , CSS, Javascript,VueJs, NodeJS",
             "image": "https://nickisamantha.github.io/allImages/images/psplandingpg.png",
             "github": "https://github.com/NickiSamantha/nodeJsEomp.git",
             "vercel": "https://nodeeomp-5d5da.web.app/"
+        },
+        {
+            "id": 2,
+            "name": "Fullstack Project",
+            "description": "Booking system was created using HTML , CSS, Javascript,VueJs, MySQL, NodeJS",
+            "image": "https://nickisamantha.github.io/allImages/images/buddybook.png",
+            "github": "https://github.com/NickiSamantha/buddyBookerCapstone.git",
+            "vercel": "https://capstone-f1268.web.app"
         },
         {
             "id": 3,
