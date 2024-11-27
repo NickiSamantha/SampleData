@@ -157,7 +157,36 @@
             "title":"Adobe Photoshop",
             "description":"I have intermediate skills in Adobe Photoshop, allowing me to edit photos and create graphics. My knowledge includes basic compositing, and color adjustments, to produce polished images in both digital and print media.",
             "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
+        },
+        {
+            "id":12, 
+            "title":"UI/UX",
+            "description":"",
+            "image":"https://nickisamantha.github.io/allImages/images/UIUX.png"
+        },
+        {
+            "id":"13",
+            "title":"WordPress",
+            "description":"",
+            "image":"https://nickisamantha.github.io/allImages/images/WordPress.png"
+        },
+        {
+            "id":"14", 
+            "title":"WordPress incorporating API",
+            "description":"", 
+            "image":"https://nickisamantha.github.io/allImages/images/APIs.png"
+
+
+        },
+        {
+            "id":"15",
+            "title":"Operating System Basics",
+            "description":"",
+            "image":"https://nickisamantha.github.io/allImages/images/OSBasics.png"
         }
+        
+
+        
       ],
     "softskills":[
         {
