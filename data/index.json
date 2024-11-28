@@ -159,30 +159,34 @@
             "image":"https://nickisamantha.github.io/allImages/images/photoshop.png"
         },
         {
-            "id":12, 
+            "id":12,
+            "title":"Operating System Basics",
+            "description":"Understanding the fundementals in operating systems. ",
+            "image":"https://nickisamantha.github.io/allImages/images/OSBasics.png"
+        },
+        {
+            "id":13,
+            "title":"Linux",
+            "description":"Understanding the fundementals in Linux.",
+            "image":"https://nickisamantha.github.io/allImages/images/OSBasics.png"
+        },
+        {
+            "id":14, 
             "title":"UI/UX",
-            "description":"",
+            "description":"Ability to implement UI/UX principles into a website design using Figma.",
             "image":"https://nickisamantha.github.io/allImages/images/UIUX.png"
         },
         {
-            "id":"13",
+            "id":15,
             "title":"WordPress",
-            "description":"",
+            "description":"Ability to develop a website using WordPress with Elementor.",
             "image":"https://nickisamantha.github.io/allImages/images/WordPress.png"
         },
         {
-            "id":"14", 
+            "id":16, 
             "title":"WordPress incorporating API",
-            "description":"", 
+            "description":"Ability to integrate public domain APIs into WordPress with Woocommerce.", 
             "image":"https://nickisamantha.github.io/allImages/images/APIs.png"
-
-
-        },
-        {
-            "id":"15",
-            "title":"Operating System Basics",
-            "description":"",
-            "image":"https://nickisamantha.github.io/allImages/images/OSBasics.png"
         }
         
 
