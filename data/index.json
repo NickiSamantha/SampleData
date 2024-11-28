@@ -160,51 +160,57 @@
         },
         {
             "id":12,
-            "title":"Operating System Basics",
-            "description":"Understanding the fundementals in operating systems. ",
-            "image":"https://nickisamantha.github.io/allImages/images/OSBasics.png"
+            "title":"Firebase",
+            "description":"I have the skill to host and deploy websites on Firebase.",
+            "image":"https://nickisamantha.github.io/allImages/images/icons8-firebase-48.png"
         },
         {
             "id":13,
-            "title":"Linux",
-            "description":"Understanding the fundementals in Linux.",
-            "image":"https://nickisamantha.github.io/allImages/images/linuxx.png"
+            "title":"Operating System Basics",
+            "description":"https://nickisamantha.github.io/allImages/images/OSBasics.png",
+            "image":"https://nickisamantha.github.io/allImages/images/icons8-linux-server-50.png"
         },
         {
             "id":14,
+            "title":"Linux",
+            "description":"https://nickisamantha.github.io/allImages/images/linuxx.png",
+            "image":"https://nickisamantha.github.io/allImages/images/icons8-linux-48.png"
+        },
+        {
+            "id":15,
             "title":"JavaScript Essentials 2",
-            "description":"Gain a strong JavaScript foundation.",
-            "image":"https://nickisamantha.github.io/allImages/images/javascript.png"
+            "description":"https://nickisamantha.github.io/allImages/images/javascript.png",
+            "image":"https://nickisamantha.github.io/allImages/images/icons8-javascript-48.png"
         },
         {
-            "id":15, 
+            "id":16, 
             "title":"UI/UX",
-            "description":"Ability to implement UI/UX principles into a website design using Figma.",
-            "image":"https://nickisamantha.github.io/allImages/images/UIUX.png"
+            "description":"https://nickisamantha.github.io/allImages/images/UIUX.png",
+            "image":"https://nickisamantha.github.io/allImages/images/icons8-ui-ux-design-50.png"
         },
         {
-            "id":16,
+            "id":17,
             "title":"WordPress",
-            "description":"Ability to develop a website using WordPress with Elementor.",
-            "image":"https://nickisamantha.github.io/allImages/images/WordPress.png"
-        },
-        {
-            "id":17, 
-            "title":"WordPress incorporating API",
-            "description":"Ability to integrate public domain APIs into WordPress with Woocommerce.", 
-            "image":"https://nickisamantha.github.io/allImages/images/APIs.png"
+            "description":"https://nickisamantha.github.io/allImages/images/WordPress.png",
+            "image":"https://nickisamantha.github.io/allImages/images/icons8-wordpress-48.png"
         },
         {
             "id":18, 
-            "title":"SEO",
-            "description":"", 
-            "image":"https://nickisamantha.github.io/allImages/images/seo.png"
+            "title":"WordPress incorporating API",
+            "description":"https://nickisamantha.github.io/allImages/images/APIs.png", 
+            "image":"https://nickisamantha.github.io/allImages/images/icons8-wordpress-48.png"
         },
         {
             "id":19, 
+            "title":"SEO",
+            "description":"https://nickisamantha.github.io/allImages/images/seo.png", 
+            "image":"https://nickisamantha.github.io/allImages/images/icons8-seo-50.png"
+        },
+        {
+            "id":20, 
             "title":"SEO 2",
-            "description":"", 
-            "image":"https://nickisamantha.github.io/allImages/images/seo2.png"
+            "description":"https://nickisamantha.github.io/allImages/images/seo2.png",
+            "image":"https://nickisamantha.github.io/allImages/images/icons8-seo-50 (1).png"
         }
         
 
