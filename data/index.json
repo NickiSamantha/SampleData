@@ -1,6 +1,6 @@
 {
     "jobTitle": [{
-        "title": " Website Developer",
+        "title": "Full Stack Developer",
         "personalStatement": "I value and understand the need for dedication, commitment and hard work in order to progress and ultimately succeed."
     }],
     "about": [{
@@ -23,71 +23,79 @@
             "courseName": "Grade 12"
         }
     ],
-    "experience": [{
+    "experience": [
+        {
             "id": 1,
+            "companyName": "Network International,
+            "jobTitle": "Junior E-commerce Support Engineer",
+            "duration": "Jan 2025 - Present",
+            "duties": "Hosting webinars with Merchants. I do assist with admin such as DOB , handle Level 1 and Level 2 tickets. I also create web pages to make intergration process onto the payment gateway understandable to merchants.  "
+        },
+        {
+            "id": 2,
             "companyName": "Life Choices Studio",
             "jobTitle": "Intern",
             "duration": "Sept 2024 - Present",
             "duties": "Upskilling myself on various learning journey's and working on live projects. "
         },
         {
-            "id": 2,
+            "id": 3,
             "companyName": "Amazon Development Center",
             "jobTitle": "Virtual Technical Care Associate",
             "duration": "Sept 2022 - Mar 2024",
             "duties": "Handling live contacts via Phone , Chat and Email. Assisting manager's with weekly stats reports and one on one coaching."
         },
         {
-            "id": 3,
+            "id": 4,
             "companyName": "Amazon Development Center",
             "jobTitle": "Virtual Advanced Technician ",
             "duration": "June 2023 - Dec 2023",
             "duties": "Assisting Customer Service Associates with their customers via Chat. As an advanced technician I am the last point of contact. I handled contacts via chat , phone and email. This role also required me to document my monthly stats and indicate areas of opportunity."
         },
         {
-            "id": 4,
+            "id": 5,
             "companyName": "WNS",
             "jobTitle": "Debt Collector Workflow Agent",
             "duration": "Sept 2021 - Sept 2022",
             "duties": "Researching business location , assets , company status and valid contact numbers in order to chase outstanding debt. Once the business has paid up their debt we remove the account from the system. However , if we unable to settle an agreement we either disconnect the meter or forward the account to an external debt collection agency."
         },
         {
-            "id": 5,
+            "id": 6,
             "companyName": "Flawless Copies",
             "jobTitle": "CEO and Founder",
             "duration": "Mar 2021 - Sept 2021",
             "duties": "Designing custom templates to be printed on garments. Printed custom templates on garments. I am still pursuing this on a part-time bases now."
         },
         {
-            "id": 6,
+            "id": 7,
             "companyName": "Amazon Development Center",
             "jobTitle": "Virtual Customer Service Resolution Specialist",
             "duration": "June 2020 - Mar 2021",
             "duties": "Assisting Customer Service Associates with their customers via Chat. As a customer service resolution specialist I am the last point of contact. I handled contacts via chat , phone and email. This role also required me to document my monthly stats and indicate areas of opportunity."
         },
         {
-            "id": 7,
+            "id": 8,
             "companyName": "Amazon Development Center",
             "jobTitle": "Virtual Customer Service Associate",
             "duration": "Oct 2019 - Jun 2020",
             "duties": "Assisting customers via calls, live chats and emails. To be customer focused and solve the customers query as a whole. Being a point of contact within they team. Duties also included assisting team manager with mining and peer to peer coaching."
         },
         {
-            "id": 8,
+            "id": 9,
             "companyName": "Capita",
             "jobTitle": "Advisor",
             "duration": "June 2019 - Sept 2019",
             "duties": "Assisting clients via phone with booking , editing their flights. "
         },
         {
-            "id": 9,
+            "id": 10,
             "companyName": "Amazon Development Center",
             "jobTitle": "Customer Service Associate",
             "duration": "Oct 2017 - April 2019",
             "duties": "Assisting customers via calls, live chats and emails. To be customer focused and solve the customers query as a whole."
         },
         {
-            "id": 10,
+            "id": 11,
             "companyName": "Numeric",
             "jobTitle": "Math Coach",
             "duration": "Jan 2017 - Sept 2017",
