@@ -1,6 +1,7 @@
+
 {
     "jobTitle": [{
-        "title": "Full Stack Developer",
+        "title": "Website Developer",
         "personalStatement": "I value and understand the need for dedication, commitment and hard work in order to progress and ultimately succeed."
     }],
     "about": [{
@@ -29,7 +30,7 @@
             "companyName": "Network International",
             "jobTitle": "Junior E-commerce Support Engineer",
             "duration": "Jan 2025 - Present",
-            "duties": "Hosting webinars with Merchants. I do assist with admin such as the DOB , handle Level 1 and Level 2 tickets. I also create web pages to make intergration process onto the payment gateway understandable to merchants. I've also created email templates using HTML via mailchimp.  "
+            "duties": "Hosting webinars with Merchants. I handle Level 1 and Level 2 tickets. I also assist with plugins on WooCommerce or Shopify. I've also created email templates using HTML via mailchimp.  "
         },
         {
             "id": 2,
